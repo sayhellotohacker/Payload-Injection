@@ -159,20 +159,6 @@ resp = requests.get(test_url, timeout=10, verify=False)  # 10 seconds timeout
 - No authentication handling
 - No rate limiting or delay between requests
 
-## 🔄 Future Improvements
-
-- [ ] POST parameter testing
-- [ ] Blind SQL injection detection
-- [ ] CSRF vulnerability checking
-- [ ] Custom header support
-- [ ] Cookie handling
-- [ ] Multi-threading for faster scans
-- [ ] HTML report generation
-- [ ] Proxy support
-
-## 📝 License
-
-MIT License - See LICENSE file for details
 
 ## 🤝 Contributing
 
