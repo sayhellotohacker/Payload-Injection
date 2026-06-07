@@ -22,6 +22,7 @@ A lightweight Python tool for detecting common web vulnerabilities including SQL
 
 ```bash
 # Clone the repository
+https://github.com/sayhellotohacker/Payload-Injection.git
 cd Payload-Injection
 
 # Install required dependencies
