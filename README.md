@@ -22,8 +22,7 @@ A lightweight Python tool for detecting common web vulnerabilities including SQL
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/web-security-scanner.git
-cd web-security-scanner
+cd Payload-Injection
 
 # Install required dependencies
 pip install requests
